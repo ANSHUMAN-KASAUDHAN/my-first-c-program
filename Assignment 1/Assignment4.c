@@ -1,3 +1,4 @@
+// WAP in C to input student name and roll number and print Student name and roll number.
 #include <stdio.h>
 int main() {
     char name[50];
