@@ -1,0 +1,80 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Document</title>
+</head>
+<body>
+  <table border="1" cellspacing="0">
+    <caption><b>SIMPLE TABLE</b></caption>
+    <thead>
+      <tr>
+        <th rowspan="2">SL.NO</th>
+        <th rowspan="2">ID</th>
+        <th rowspan="2">NAME</th>
+        <th colspan="2">SALARY</th>
+        <th COLSPAN="2">LEAVE STATUS</th>
+      </tr>
+      <tr>
+        <th>BASIC</th>
+        <th>GROSS</th>
+        <th><center>SL</center></th>
+        <th><center>CL</center></th>
+      </tr>
+    </thead>
+    <tbody>
+      <tr>
+        <td><center>01</center></td>
+        <td>2462</td>
+        <td><center>AL-AMIN</center></td>
+        <td><center>8500</center></td>
+        <td><center>15200</center></td>
+        <td><center>02</center></td>
+        <td><center>04</center></td>
+      </tr>
+      <tr>
+        <td><center>02</center></td>
+        <td>2463</td>
+        <td><center>JAKIR</center></td>
+        <td><center>8500</center></td>
+        <td><center>15200</center></td>
+        <td><center>04</center></td>
+        <td><center>05</center></td>
+      </tr>
+      <tr>
+        <td><center>03</center></td>
+        <td>2464</td>
+        <td><center>JAKIR</center></td>
+        <td><center>9000</center></td>
+        <td><center>17500</center></td>
+        <td><center>03</center></td>
+        <td><center>02</center></td>
+      </tr>
+      <tr>
+        <td><center>04</center></td>
+        <td>2465</td>
+        <td>ABDULALIM</td>
+        <td><center>8500</center></td>
+        <td><center>15200</center></td>
+        <td><center>01</center></td>
+        <td><center>01</center></td>
+      </tr>
+      <tr>
+        <td><center>05</center></td>
+        <td>2466</td>
+        <td><center>IMTIAZ</center></td>
+        <td><center>9500</center></td>
+        <td><center>16200</center></td>
+        <td><center>03</center></td>
+        <td><center>04</center></td>
+      </tr>
+      <tr>
+        <td colspan="5"><center>TOTAL MANPOWER::</center></td>
+        <td colspan="2"><center>05</center></td>
+      </tr>
+    </tbody>
+
+  </table>
+</body>
+</html>
