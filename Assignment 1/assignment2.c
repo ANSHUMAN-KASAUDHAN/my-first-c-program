@@ -1,3 +1,4 @@
+//Task 1.2 Wap in c to find max number from two numbers using ternary operator.
 #include <stdio.h>
 
 int main() {
