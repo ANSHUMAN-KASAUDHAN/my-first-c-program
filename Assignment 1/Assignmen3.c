@@ -1,14 +1,18 @@
+// Wap in c to input student name and roll number and print student name and roll number.
 #include <stdio.h>
 
 int main() {
-    int a, b, max;
+    char name[50];
+    int rollno;
 
-    printf("Enter two numbers: ");
-    scanf("%d %d", &a, &b);
+    printf("Enter student name: ");
+    scanf("%s", name);
 
-    max = (a > b) ? a : b;
+    printf("Enter roll number: ");
+    scanf("%d", &rollno);
 
-    printf("Maximum number = %d\n", max);
+    printf("\nStudent Name: %s", name);
+    printf("\nRoll Number: %d", rollno);
 
     return 0;
 }
