@@ -1,14 +1,6 @@
-// WAP in C to input student name and roll number and print Student name and roll number.
+// Write a program in C to generate a bell sound.
 #include <stdio.h>
 int main() {
-    char name[50];
-    int roll;
-    printf("Enter student name: ");
-    scanf("%s", name);
-    printf("Enter roll number: ");
-    scanf("%d", &roll);
-    
-    printf("\nStudent Name: %s\n", name);
-    printf("Roll Number: %d", roll);
+    printf("Bell Sound: \a");
     return 0;
 }
