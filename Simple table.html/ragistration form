@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=<device-width>, initial-scale=1.0">
+    <title>Document</title>
+</head>
+<body>
+    <h1>Registration Bootstrap Form Template</h1>
+    <form>
+        <input type="text" placeholder="FIRST NAME" size="150">
+        <br><br
+>        <input type="text" placeholder="LAST NAME" size="150">
+        <br><br>
+        <input type="tel" placeholder="PHONE NUMBER">
+        <br><br>
+        <input type="text" placeholder="COUNTRY" size="150">
+        <br><br>
+        <input type="text" placeholder="ADDRESS" size="150">
+        <br><br>
+        <input type="text" placeholder="CITY" size="60">
+           &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="text" placeholder="pincode">
+        <br><br>
+        <input type="text" placeholder="ABOUT YOURSELF" size="150">
+        <br><br>
+        <input type="text" placeholder="YOUR EMAIL" size="150">
+        <br><br>
+        <input type="text" placeholder="CONFIRM YOUR EMAIL" size="150">
+        <br><br>
+        <input type="password" placeholder="PASSWORD">
+   &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+        <input type="password" placeholder="CONFIRM PASSWORD">
+        <br><br>
+        <button>Reset</button>
+        <button>submit</button>
+
+    </form>
+</body>
+</html>
