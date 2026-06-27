@@ -13,16 +13,16 @@
 </head>
 <body>
     <div>
-        <h1>STUDENT INFORMATION</h1>
+        <h1 style="background-color: chartreuse;">STUDENT INFORMATION</h1>
         <div style="display: flex;gap: 20px;margin-bottom: 15px;">
        <img src="images/photo.jpeg" alt=""> 
        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTMwXUjVWxg5CAYuRxgeGG7JKiQMIcgjldt_WZaOu3MB3HZ5xN4EuC1dkvw&s=10" alt="">
        </div>
-       <p id="size"><b>NAME:-</b>Anshuman</p>
-       <p id="size"><b>BRANCH:-</b>code-365 Information Technology</p>
-       <p id="size"><b>COLLEGE NAME:-</b>CHHATRAPATI SAHUJI MAHARAJ GOVERNMENT P[OLYTECHNIC AMBEDKAR NAGAR</p>
-       <p><b>DISTRIC:-</b>AMBEDKAR NAGAR</p>
-       <p><b>PINCODE:-</b>224210</p>
+       <p id="size"><b style="color:orange;">NAME:-</b>Anshuman</p>
+       <p id="size"><b style="color: orange;">BRANCH:-</b>code-365 Information Technology</p>
+       <p id="size"><b style="color: orange;">COLLEGE NAME:-</b>CHHATRAPATI SAHUJI MAHARAJ GOVERNMENT P[OLYTECHNIC AMBEDKAR NAGAR</p>
+       <p><b style="color: orange;">DISTRIC:-</b>AMBEDKAR NAGAR</p>
+       <p><b  style="color: orange;">PINCODE:-</b>224210</p>
     </div>
 </body>
 </html>
