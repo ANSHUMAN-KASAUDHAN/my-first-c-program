@@ -1,4 +1,4 @@
-<!DOCTYPE html>
+     <!DOCTYPE html>
 <html lang="en">
 <head>
     <meta charset="UTF-8">
@@ -6,28 +6,28 @@
     <title>Document</title>
     <style>
         #box{height: 800px;width: 800px;background-color: aqua;float: left;border: 2px solid black;}
-        .white{height: 100px;width: 100px;background-color: white;float: left;}
-        .black{height: 100px;width: 100px;background-color: black;float: left;}
+        .white{height: 100px;width: 100px;background-color: white;float: left;font-size: 80px;text-align: center;}
+        .black{height: 100px;width: 100px;background-color: black;float: left;color: white;font-size: 80px;text-align: center;}
     </style>
 </head>
 <body>
     <div id="box">
-        <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
+        <div class="white">&#9820</div>
+        <div class="black">&#9816</div>
+         <div class="white">&#9821</div>
+        <div class="black">&#9813</div>
+         <div class="white">&#9818</div>
+        <div class="black">&#9815</div>
+         <div class="white">&#9822</div>
+        <div class="black">&#9814</div>
+        <div class="black">&#9817</div>
+         <div class="white">&#9823</div>
+        <div class="black">&#9817</div>
+         <div class="white">&#9823</div>
+        <div class="black">&#9817</div>
+         <div class="white">&#9823</div>
+        <div class="black">&#9817</div>
+         <div class="white">&#9823</div>
           <div class="white"></div>
         <div class="black"></div>
          <div class="white"></div>
@@ -60,22 +60,22 @@
          <div class="white"></div>
         <div class="black"></div>
          <div class="white"></div>
-          <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
-        <div class="black"></div>
-         <div class="white"></div>
+          <div class="white">&#9823</div>
+        <div class="black">&#9817</div>
+         <div class="white">&#9823</div>
+        <div class="black">&#9817</div>
+         <div class="white">&#9823</div>
+        <div class="black">&#9817</div>
+         <div class="white">&#9823</div>
+        <div class="black">&#9817</div>
+        <div class="black">&#9814</div>
+         <div class="white">&#9822</div>
+        <div class="black">&#9815</div>
+         <div class="white">&#9819</div>
+        <div class="black">&#9812</div>
+         <div class="white">&#9821</div>
+        <div class="black">&#9816</div>
+         <div class="white">&#9820</div>
         
 
         
