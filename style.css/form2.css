@@ -1,0 +1,44 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{margin: 0;padding: 0;box-sizing: border-box;}
+        #parent{width:1000px;height: 800px;background-color: silver;display: flex;align-items: center;justify-content: center;gap: 0;}
+        #box1{background-color:white;height: 500px;width: 400px;}
+        #box1 h1{text-align: center;padding-top: 70px;}
+        #box1 input{margin-left: 50px;width: 300px;height: 30px;}
+        button{width: 300px;background-color: green;margin-left: 50px;height: 40px;}
+        p{text-align: center;}
+        img{margin-left: 50px;width: 60px;height: 50px;}
+        #box2{height: 500px;width: 400px;background-color: green;color: white;}
+        #box2{text-align: center;padding-top: 50px;}
+        #box2 button{background-color: transparent;border-radius: 20px;color: white;}
+    </style>
+</head>
+<body>
+    <div id="parent">
+        <div id="box1">
+          <h1>Sign in</h1>
+          <br><br>
+          <input type="text" placeholder="NAME">
+          <br><br>
+          <input type="password" placeholder="PASSWORD">
+          <br><br>
+          <button>Signin</button>
+          <p>or signin with</p>
+          <img src="https://img.icons8.com/?size=100&id=118467&format=png&color=000000" alt="">
+          <img src="https://img.icons8.com/?size=100&id=V5cGWnc9R4xj&format=png&color=000000" alt="">
+          <img src="https://img.icons8.com/?size=100&id=13930&format=png&color=000000" alt="">
+        </div>
+        <div id="box2">
+            <h1>welcome back</h1>
+            <p>welcome back!we are so happy to i hope you <br>here it's great to see you again.we hope you <br>had a safe and enjoyabl time away.</p>
+            <br><br>
+            <button>No Account yet?Signup</button>
+      </div>
+    </div>
+</body>
+</html>
