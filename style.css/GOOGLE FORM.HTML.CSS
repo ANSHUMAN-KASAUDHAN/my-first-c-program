@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{margin: 0;padding: 0;box-sizing: border-box;}
+        #parent{background-color: blue;height: 600px;width: 800px;display: flex;justify-content: center;align-items: center;}
+        #box{height: 400px;width: 300px;border-radius: 20px;background-color: silver;}
+        #box h1{text-align: center;}
+        #box3{margin-left: 40px;width: 200px;}
+        #box4{margin-left: 40px;}
+        button{width: 200px;background-color: blue;color: white;margin-left: 40px;}
+    </style>
+</head>
+<body>
+    <div id="parent">
+    <div id="box">
+        <h1>Sign in</h1>
+        <input type="text" placeholder="Email" id="box3">
+        <br><br>
+         <input type="password" placeholder="Password" id="box3">
+         <br><br>
+         <div id="box4">
+          <input type="checkbox" id="remember">
+          <label for="remember">Remember password</label>
+          </div>
+           <br><br>
+           <button>LOGIN</button>
+           <br><br>
+           <hr style="width:200px">
+           <br><br>
+           <button style="background-color: red;">G sign in with GOOGLE</button>
+           <br><br>
+           <button>f sign in with FACEBOOK</button>
+    </div>
+    </div>
+</body>
+</html>
