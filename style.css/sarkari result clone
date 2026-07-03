@@ -1,0 +1,231 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Document</title>
+    <style>
+        *{margin: 0;padding: 0;box-sizing: border-box;}
+        #div1{height:110px;width: 700px;background-color:rgb(168, 11, 24);}
+        #div1 h1{text-align: center;color: white;padding-top: 30px;}
+        #div1 p{text-align: center;color: white;padding-bottom: 30px;}
+        #div1 img{width: 70px;height: 70px;}
+        #img1{position:absolute;top: 25px;left: 20px;}
+        #div2{background-color: black;width: 1000;height:36px;position: relative;bottom:10px;
+            color: white;}
+        #div2{display: flex;
+            align-items: center;}
+            #div2 div{flex:1;border-right: 1px solid white;display: flex;justify-content: center;height: 100%;align-items: center;}
+            #div2 div:last-child{border-right: none;}
+            #p1{width: 700px;font-size: 16px;}
+            #span1{font-size: 15.5px;}
+            table{border: 2px solid white;width: 700px;}
+            #data1{height: 700px;width: 200px;background-color: silver;margin-left: 30px;border: 1px solid goldenrod;}
+            #data1 ul{padding-left: 20px;text-decoration: underline;}
+            #arrange{display: flex;gap: 5px;}
+            #arrange1{display: flex;gap: 5px;height:400px ;width: 750px;flex-wrap: wrap;}
+            #data2{margin-left: 30px;border: 1px solid goldenrod;background-color: silver;height: 400px;width: 200px;}
+            #data2 ul{padding-left: 20px;text-decoration: underline;}
+            #data3{border: 1px solid goldenrod;background-color: silver;height: 400px;width: 200px;margin-left: 30px;}
+            #data3 ul{padding-left: 20px;text-decoration: underline;}
+             #data4{border: 1px solid goldenrod;background-color: silver;height: 200px;width: 200px;margin-left: 30px;}
+             #data4 ul{padding-left: 20px;text-decoration: underline;}
+             .column{display: flex;flex-direction: column;gap: 20px;}
+              #data5{border: 1px solid goldenrod;background-color: silver;height: 200px;width: 200px;margin-left: 30px;}
+             #data5 ul{padding-left: 20px;text-decoration: underline;}
+        
+    </style>
+</head>
+<body>
+    <div id="div1">
+        <h1>SARKARI RESULT</h1>
+        <P>www.SARKARIRESULTT.COM</P>
+        <div id="img1">
+        <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTonMHgcP5_G2YWMkatJqC0LuL-YuxIpIDcVuUEMh7mx0KoDuKMlpQU7WTr&s=10" alt="">
+        </div>
+        <div id="div2">
+            <div>Home</div>
+            <div>Latest Job</div>
+            <div>Result</div>
+            <div>Admit Card</div>
+            <div>Answer Key</div>
+            <div>Syllabus</div>
+            <div>Search</div>
+            <div>Contact Us</div>
+        </div>
+        </div>
+        <br><br>
+        <div id="p1">
+        <p style="margin-left: 20px;"><b>Sarkari Result: SarkariResult.com Sarkari Naukri Latest jobs online form at Sarkari Result 2024</b></p>
+    </div>
+    <br>
+    <p style="color: red;font-weight: bold;margin-left:200px;">welcome to N0.1 Education Portal Sarkari Result 2024</p>
+    <br>
+    <div id="span1">
+    <p><span style="color:blue">Sarkari Result Android Apps</span>||<span style="color:blue">Sarkari Result Youtube Channel</span>||<span style="color:blue">Sarkari Result Apple</span>/<span style="color:blue">IOS Apps</span>||<span style="color: blue;">Follow Instagram</span></p>
+    </div>
+    <div id="span2">
+    <p style="margin-left: 200px;font-size: 13px;"><span style="color: blue;">CTET Result July 2024</span>||<span style="color: blue;">IPR RES MTS Online Form 2024</span>||<span style="color: blue;">MP CPCT Online Form 2024</span></p>
+    </div>
+    <br><br>
+    <table>
+        <thead>
+            <tr>
+                <th style="background-color: olive;color: white;">Uttrakhand TET<br>Apply Online</th>
+                <th style="background-color: darkblue;color: white;">Jharkhand TET<br>Apply Online</th>
+                 <th style="background-color: orange;COLOR:white;">Navy INCET 01/2024<br>Apply Online</th>
+                <th style="background-color: brown;color: white;">RRB JE 2024<br>Apply Online</th>
+            </tr>
+              <tr>
+                <th style="background-color: red;color: white;">Uttrakhand TET<br>Apply Online</th>
+                <th style="background-color: green;color: white;">Jharkhand TET<br>Apply Online</th>
+                 <th style="background-color: magenta;color:white;">Navy INCET 01/2024<br>Online Counselling</th>
+                <th style="background-color: rgb(0, 145, 255);color: white;">RRB JE 2024<br>Apply Online</th>
+            </tr>
+        </thead>
+    </table>
+    <br><br>
+    <div id="arrange">
+    <div id="data1">
+        <h2 style="background-color:rgb(168,11,24);color: white;text-align: center;">Result</h2>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+        </ul>
+    </div>
+     <div id="data1">
+        <h2 style="background-color:rgb(168,11,24);color: white;text-align: center;">Admit Card</h2>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+        </ul>
+    </div>
+     <div id="data1">
+        <h2 style="background-color:rgb(168,11,24);color: white;text-align: center;">Latest Job</h2>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+        </ul>
+    </div>
+</div> 
+<br>
+<div id="arrange1">
+<div id="data2" class="column">
+        <h2 style="background-color:rgb(168,11,24);color: white;text-align: center;">Answer Key</h2>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            </ul>
+    </div>
+    <div id="data2" class="column">
+        <h2 style="background-color:rgb(168,11,24);color: white;text-align: center;">Syllabus</h2>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            </ul>
+    </div>
+     <div id="data3" class="column">
+        <h2 style="background-color:rgb(168,11,24);color: white;text-align: center;">Admission</h2>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            </ul>
+    </div> 
+     <div id="data4" class="column">
+        <h2 style="background-color:rgb(168,11,24);color: white;text-align: center;">Important</h2>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            </ul>
+            </div>
+             <div id="data5" class="column">
+        <h3 style="background-color:rgb(168,11,24);color: white;text-align: center;">Certificate Verification</h3>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            </ul>
+            </div>
+             <div id="data5" class="column">
+        <h3 style="background-color:rgb(168,11,24);color: white;text-align: center;">Offine job</h3>
+        <ul>
+            <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+           <li><a href="">UPSC Geo Scientist 2024 <br>Result</a></li>
+            </ul>
+            </div>
+   
+         </div>
+         </div>
+</body>
+</html>
